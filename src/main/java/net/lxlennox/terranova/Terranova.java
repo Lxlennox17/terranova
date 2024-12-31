@@ -2,6 +2,8 @@ package net.lxlennox.terranova;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.lxlennox.terranova.block.ModBlocks;
+import net.lxlennox.terranova.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -12,6 +14,8 @@ public class Terranova implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItems.registerModItems();
 
+		ModBlocks.registerModBlocks();
 	}
 }
