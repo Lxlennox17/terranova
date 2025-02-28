@@ -23,8 +23,12 @@
 		],
 		"client":[
 			"net.lxlennox.terranova.TerranovaClient"
-		]
-	},
+		],
+		"terrablender":[
+		"net.lxlennox.terranova.world.biome.ModTerrablenderAPI"
+	    ]
+
+			},
 	"mixins": [
 		"terranova.mixins.json"
 	],

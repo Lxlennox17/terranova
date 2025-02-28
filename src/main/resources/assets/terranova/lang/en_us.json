@@ -1,10 +1,115 @@
 {
 "item.terranova.redwood_totem": " Redwood Totem",
+  "item.terranova.redwood_boat": "Redwood Boat",
+  "item.terranova.redwood_chest_boat": "Redwood Chest Boat",
+"item.terranova.deer_spawn_egg": "Deer Spawn Egg",
+
+  "item.terranova.lavender_boat": "Lavender Boat",
+  "item.terranova.lavender_chest_boat": "Lavender Chest Boat",
+
+  "item.terranova.shadow_boat": "Shadow Boat",
+  "item.terranova.shadow_chest_boat": "Shadow Chest Boat",
 
 
-  "block.terranova.redwood_wood": " Redwood Wood",
-  "block.terranova.redwood_log": " Redwood Log"
+  "item.terranova.eclipse_quartz": "Eclipse Quartz",
 
 
+
+
+
+  "block.terranova.redwood_wood": "Redwood Wood",
+  "block.terranova.redwood_log": " Redwood Log",
+"block.terranova.stripped_redwood_log": " Stripped Redwood Log",
+"block.terranova.stripped_redwood_wood": " Stripped Redwood Wood",
+"block.terranova.redwood_planks": " Redwood Planks",
+"block.terranova.redwood_leaves": " Redwood Leaves",
+"block.terranova.redwood_sapling": " Redwood Sapling",
+"block.terranova.redwood_stairs": " Redwood Stairs",
+"block.terranova.redwood_slab": " Redwood Slab",
+"block.terranova.redwood_button": " Redwood Button",
+"block.terranova.redwood_pressure_plate": " Redwood Pressure Plate",
+"block.terranova.redwood_fence": " Redwood Fence",
+"block.terranova.redwood_fence_gate": " Redwood Fence Gate",
+  "block.terranova.redwood_door": " Redwood Door",
+"block.terranova.redwood_trapdoor": " Redwood Trapdoor",
+
+  "block.terranova.redwood_sign": "Redwood Sign",
+  "block.terranova.redwood_wall_sign": "Redwood Wall Sign",
+  "block.terranova.redwood_hanging_sign": "Redwood Hanging Sign",
+  "block.terranova.redwood_wall_hanging_sign": "Redwood Wall Hanging Sign",
+
+
+
+  "block.terranova.lavender_wood": "Lavender Wood",
+  "block.terranova.lavender_log": "Lavender Log",
+  "block.terranova.stripped_lavender_log": "Stripped Lavender Log",
+  "block.terranova.stripped_lavender_wood": "Stripped Lavender Wood",
+  "block.terranova.lavender_planks": "Lavender Planks",
+  "block.terranova.lavender_leaves": "Lavender Leaves",
+  "block.terranova.lavender_sapling": "Lavender Sapling",
+  "block.terranova.lavender_stairs": "Lavender Stairs",
+  "block.terranova.lavender_slab": "Lavender Slab",
+  "block.terranova.lavender_button": "Lavender Button",
+  "block.terranova.lavender_pressure_plate": "Lavender Pressure Plate",
+  "block.terranova.lavender_fence": "Lavender Fence",
+  "block.terranova.lavender_fence_gate": "Lavender Fence Gate",
+  "block.terranova.lavender_door": "Lavender Door",
+  "block.terranova.lavender_trapdoor": "Lavender Trapdoor",
+
+  "block.terranova.lavender_sign": "Lavender Sign",
+  "block.terranova.lavender_wall_sign": "Lavender Wall Sign",
+  "block.terranova.lavender_hanging_sign": "Lavender Hanging Sign",
+  "block.terranova.lavender_wall_hanging_sign": "Lavender Wall Hanging Sign",
+
+  "block.terranova.lavender": "Lavender",
+  "block.terranova.lavender_bush": "Lavender Bush",
+
+  "block.terranova.shadow_torch": "Shadow Torch",
+  "block.terranova.wall_shadow_torch": "Wall Shadow Torch",
+  "block.terranova.shadow_lantern": "Shadow Lantern",
+  "block.terranova.nightbloom": "Nightbloom",
+
+  "block.terranova.shadow_wood": "Shadow Wood",
+  "block.terranova.shadow_log": "Shadow Log",
+  "block.terranova.stripped_shadow_log": "Stripped Shadow Log",
+  "block.terranova.stripped_shadow_wood": "Stripped Shadow Wood",
+  "block.terranova.shadow_planks": "Shadow Planks",
+  "block.terranova.shadow_leaves": "Shadow Leaves",
+  "block.terranova.shadow_sapling": "Shadow Sapling",
+  "block.terranova.shadow_stairs": "Shadow Stairs",
+  "block.terranova.shadow_slab": "Shadow Slab",
+  "block.terranova.shadow_button": "Shadow Button",
+  "block.terranova.shadow_pressure_plate": "Shadow Pressure Plate",
+  "block.terranova.shadow_fence": "Shadow Fence",
+  "block.terranova.shadow_fence_gate": "Shadow Fence Gate",
+  "block.terranova.shadow_door": "Shadow Door",
+  "block.terranova.shadow_trapdoor": "Shadow Trapdoor",
+
+  "block.terranova.shadow_sign": "Shadow Sign",
+  "block.terranova.shadow_wall_sign": "Shadow Wall Sign",
+  "block.terranova.shadow_hanging_sign": "Shadow Hanging Sign",
+  "block.terranova.shadow_wall_hanging_sign": "Shadow Wall Hanging Sign",
+
+
+
+  "block.terranova.eclipse_ore": "Eclipse Ore",
+  "block.terranova.deepslate_eclipse_ore": "Deepslate Eclipse Ore",
+
+  "block.terranova.glowing_mushroom": "Glowing Mushroom",
+  "block.terranova.glowing_mushroom_block": "Glowing Mushroom Block",
+
+  "block.terranova.eclipse_quartz_block": "Eclipse Quartz Block",
+  "block.terranova.eclipse_quartz_bricks": "Eclipse Quartz Bricks",
+
+
+
+
+  "itemgroup.terranova.redwood_forest": "Redwood Forest",
+
+  "itemgroup.terranova.lavender_fields":"Lavender Fields",
+
+  "itemgroup.terranova.shadow_forest": "Shadow Forest",
+
+  "entity.terranova.deer": "Deer"
 
 }

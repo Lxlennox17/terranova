@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "terranova:block/redwood_log_top",
-    "side": "terranova:block/redwood_log"
-  }
-}
