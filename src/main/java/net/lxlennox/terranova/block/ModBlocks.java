@@ -29,7 +29,7 @@ import net.minecraft.world.gen.feature.TreeConfiguredFeatures;
 
 
 public class ModBlocks {
-
+//:)
 
     public static final Block REDWOOD_LOG = registerBlock("redwood_log",
             new PillarBlock(AbstractBlock.Settings.copy(Blocks.OAK_LOG)));
